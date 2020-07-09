@@ -2,7 +2,9 @@
 
 
 This program is just a way to learn IP classes.
+
 -------
+
 The next step :
    - accept files with many ip 
    - display the class
